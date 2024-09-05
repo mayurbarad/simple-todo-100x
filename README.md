@@ -1,8 +1,7 @@
 ## Todo app
 
-This project contains a simple TODO application
-It has following features -
+This simple to-do application is designed to showcase fundamental web development concepts, including MongoDB for data storage, Express for routing, React for building user interfaces, and the fetch API for connecting the frontend with the backend.
 
-- anyone can create a todo
-- anyone can see their existing todo
-- anyone can mark their todo as done
+- can create a new todo.
+- can see their existing todos.
+- can mark their todo as done.
